@@ -1,8 +1,7 @@
 ## Hi there I am PanicMike-9 **Welcome** 😄👋
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=PanicMike-9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+![Kovid's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanicMike-9&theme=dracula&show_icons=true&include_all_commits=true)
+
 <!--
 **PanicMike-9/PanicMike-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
