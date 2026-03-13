@@ -6,5 +6,8 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 </td>
 
+<img src="https://raw.githubusercontent.com/PanicMike-9/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
+
 # Goal **365 days streak!!**
 
