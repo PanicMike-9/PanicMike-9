@@ -5,6 +5,7 @@
 <td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 </td>
+![Lua Logo Animation](https://github.com/user-attachments/assets/52dca8f7-03d5-4145-877b-8af9086e2c8b)
 
 # Goal **365 days streak!!**
 
