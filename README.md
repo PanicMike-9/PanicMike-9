@@ -6,7 +6,7 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 </td>
 <td align="center" width="96">
-  <img src="https://github.com/user-attachments/assets/52dca8f7-03d5-4145-877b-8af9086e2c8b" width="65" height="65" />
+  <img src="https://github.com/user-attachments/assets/881cef95-4f43-4b6d-8014-bb4382b7a94c" width="65" height="65" />
 </td>
 
 # Goal **365 days streak!!**
