@@ -13,7 +13,7 @@
 
   <br /><br />
   
-  <img src="https://img.shields.io/badge/cplusplus-%23000000.svg?style=for-the-badge&logo=git&logoColor=whites">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
