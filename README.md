@@ -22,7 +22,9 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
+  <p align="center">
   ### 🙋‍♂️ About me
   - I am learning C++ from basics to advanced
   - I have deep interest in Math, Graphics and Compilers
   - I build projects that are a combination of **Logic** and **Visuals**
+  </p>
