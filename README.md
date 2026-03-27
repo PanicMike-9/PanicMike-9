@@ -1,4 +1,4 @@
-# Hi there I am PanicMike-9 **Welcome** 👋🤖
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&lines=Welcome+to+my+little+corner+of+code.;Feel+free+to+explore.)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PanicMike-9&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&fire=EB5454)](https://git.io/streak-stats)
 
