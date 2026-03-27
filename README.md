@@ -15,6 +15,7 @@
 
   <!-- Tech Stack Logos -->
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <br />
   &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/a36e5149-1db1-4e88-a1e5-47fdb83e489b" alt="Logo" width="85" height="85" />
 </p>
