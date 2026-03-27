@@ -23,6 +23,6 @@
   </p>
 
   ### 🙋‍♂️ About me
-  - I am learning C++ from basics to advanced
+  - I am learning C++ from scratch
   - I have deep interest in Math, Graphics and Compilers
   - I build projects that are a combination of **Logic** and **Visuals**
