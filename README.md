@@ -13,17 +13,7 @@
 
   <br /><br />
 
-  <!-- Tech Stack Logos Aligned -->
-  <table align="center">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/user-attachments/assets/a36e5149-1db1-4e88-a1e5-47fdb83e489b" alt="Logo" width="85" height="85" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 
