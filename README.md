@@ -25,5 +25,5 @@
 
   ### 🙋‍♂️ About me
   - I am learning ℂ++ from scratch
-  - I have deep interest in 𝕄𝕒𝕥𝕙, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔 and 𝑪𝒐𝒎𝒑𝒊𝒍𝒆𝒓𝒔
+  - I have interest in 𝕄𝕒𝕥𝕙, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔 and 𝑪𝒐𝒎𝒑𝒊𝒍𝒆𝒓𝒔
   - I build projects that are a combination of 𝑳𝒐𝒈𝒊𝒄 and 𝑽𝒊𝒔𝒖𝒂𝒍𝒔
