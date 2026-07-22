@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
-  ### 🙋‍♂️ About me <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="25" height="25">
+  ### 🙋‍♂️ About me
   - I am learning ℂ++ and ***OpenGL***
   - I have interest in 𝕄𝕒𝕥𝕙, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔 and $$\displaystyle{\displaylines{Interpreters\}}$$
   - I build projects that are a combination of 𝑳𝒐𝒈𝒊𝒄 and 𝑽𝒊𝒔𝒖𝒂𝒍𝒔
