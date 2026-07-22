@@ -1,10 +1,6 @@
   <!-- Typing SVG -->
   <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=500&color=E4B8FD&background=1488FF00&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Space!" alt="Typing SVG" />
-  </a>
-
-  <br />
+    <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
   </p>
 
   <p align="center">
