@@ -16,6 +16,6 @@
 
   ### 🙋‍♂️ About me
   - I am learning ℂ++ and ***OpenGL***
-  - I have interest in 𝕄𝕒𝕥𝕙, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔 and Interpreters
+  - I have interest in 𝕄𝕒𝕥𝕙, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔 and ***Interpreters***
   - I build projects that are a combination of 𝑳𝒐𝒈𝒊𝒄 and 𝑽𝒊𝒔𝒖𝒂𝒍𝒔
   - Competitive programming on ***CodeChef*** and ***LeetCode***
