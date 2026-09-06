@@ -16,6 +16,6 @@
 
   ### 🙋‍♂️ About me
   - I am learning ℂ++, ***OpenGL*** and ***SIMD Vectorization***
-  - I have interest in 𝕄𝕒𝕥𝕙, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔 and ***Interpreters***
+  - I have interest in 𝕄𝕒𝕥𝕙, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔, ***Interpreters*** and ***High Performance Computing***
   - I build projects that are a combination of 𝑳𝒐𝒈𝒊𝒄 and 𝑽𝒊𝒔𝒖𝒂𝒍𝒔
   - Competitive programming, Data structures & algorithms on ***CodeChef*** and ***LeetCode***
