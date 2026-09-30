@@ -15,6 +15,6 @@
   </p>
 
   ### About me
-  - I am learning ℂ++, ***OpenGL*** and ***SIMD Vectorization***
+  - Learning ℂ++, ***OpenGL*** and ***SIMD Vectorization***
   - I have interest in 𝕄𝕒𝕥𝕙, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔, ***Interpreters*** and ***High Performance Computing***
   - Competitive programming, Data structures & algorithms on ***CodeChef*** and ***LeetCode***
