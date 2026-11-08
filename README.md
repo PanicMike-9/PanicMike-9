@@ -8,12 +8,6 @@
 
   <br /><br />
 
-  <p align="center">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-
   ### About me
   - Graphics: **Modern OpenGL**, **RayLib**
   - Performance Computing: SIMD Vectorization, SSE4.2, AVX2, Linear Algebra Primitives
