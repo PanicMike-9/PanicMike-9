@@ -15,6 +15,7 @@
   </p>
 
   ### About me
-  - Learning ℂ++, ***OpenGL*** and ***SIMD Vectorization***
-  - I have interest in 𝕄𝕒𝕥𝕙, 𝑮𝒓𝒂𝒑𝒉𝒊𝒄𝒔, ***Interpreters*** and ***High Performance Computing***
-  - Competitive programming, Data structures & algorithms on ***CodeChef*** and ***LeetCode***
+  - Graphics: **Modern OpenGL**, **RayLib**
+  - Performance Computing: SIMD Vectorization, SSE4.2, AVX2, Linear Algebra Primitives
+  - Competitive Programming & DSA: **CodeChef**, **LeetCode**, CSES
+  - Focus Areas: Real-time rendering, data structures, low-level CPU optimizations, interpreters
